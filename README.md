@@ -1,4 +1,4 @@
-![Header](img/github-header-banner.png)
+![Header](img/header.png)
 
 ---
 ## About Me
